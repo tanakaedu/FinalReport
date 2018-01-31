@@ -8,5 +8,5 @@
 # 制作期間
 3日間
 
-[ゲームを遊ぶ](./web-gl/)
+[ゲームを遊ぶ](https://tanakaedu.github.io/FinalReport/web-gl/)
 
